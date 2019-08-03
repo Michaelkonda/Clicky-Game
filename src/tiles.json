@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Hulk",
+      "image":
+        "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/04/Movie-Hulk-Immortal-Thousands-of-Years-Old.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Thor",
+      "image":
+        "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/evolution-of-thor-5.png",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Capitan America",
+      "image":
+        "https://mx.web.img3.acsta.net/r_640_360/newsv7/19/04/26/08/59/4784495.jpg",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "image":
+        "https://cdn.pinkvilla.com/files/styles/contentpreview/public/iron-man-phase-4_0.jpg?itok=X0sQ_QHs",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Black Panter",
+      "image":
+        "https://imgix.bustle.com/uploads/image/2019/1/28/51ec72e0-4d69-4aa1-97dc-f81305a42304-e3d85e0b-4bfe-41b5-8eca-17933798cac0-black-panther.jpg",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Loki",
+      "image":
+        "https://cosmicbook.news/sites/default/files/tom-hiddleston-teases-different-loki.jpg",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Capt Marvel",
+      "image":
+        "https://cdn.vox-cdn.com/thumbor/y6FJFjxdC7s249kzXOe4BwmNyhY=/0x0:970x421/1200x800/filters:focal(498x76:652x230)/cdn.vox-cdn.com/uploads/chorus_image/image/61418769/captain_marvel_brie_larson_1.0.jpg",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Hawk eye",
+      "image":
+        "https://amp.insider.com/images/5ae1e586bd967125008b45d5-1334-667.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Spiderman",
+      "image":
+        "https://am22.akamaized.net/tms/cnt/uploads/2019/02/spider-man-civil-war.jpg",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Dr.Strange",
+      "image":
+        "https://pbs.twimg.com/profile_images/817369685192605696/iWkgUdBf.jpg",
+        "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Black Widow",
+      "image":
+        "https://www.geek.com/wp-content/uploads/2018/01/Black-Widow-625x352.jpg",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Ant Man",
+      "image":
+        "http://www.slimfitjackets.com/image/cache/data/JL15/Paul-rudd-antman-jacket-costume-1000x1059.jpg",
+        "clicked": false
+    }
+]
+  
